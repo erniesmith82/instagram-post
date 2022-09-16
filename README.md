@@ -1,3 +1,3 @@
-#Check out the instagram post mock up
+# Check out the instagram post mock up
 
-##https://erniesmith82.github.io/instagram-post/
+## https://erniesmith82.github.io/instagram-post/
