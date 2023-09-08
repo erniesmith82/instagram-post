@@ -1,18 +1,19 @@
 /* * {
 	border: 1px dashed red;
-	min-height: 10px; */
+	min-height: 10px;
+} */
 
 html{
     background-color: black;
-    width: 30%;
-    height: 70%;
+    width: 515px;
+    height: auto;
     margin: auto;
     margin-top: 25px;
 }
 
 body{
     background-color:lightgray;
-    width: auto;
+    width: 500px;
     height: auto;
     align-content: center;
     font-family: sans-serif;
@@ -23,6 +24,15 @@ img{
     width: 100%;
     position: flex;
     background-color: white;
+}
+.instragram-post{
+    width: auto;
+    background: white;
+ 
+    
+}
+.icons{
+    height: 72px;
 }
 .post{
     background-color: white;
@@ -72,4 +82,7 @@ p{
     float: right;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+.liked{
+    margin-top: -15px;
 }
